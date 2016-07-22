@@ -1,0 +1,18 @@
+{
+  "name": "ghmd-table",
+  "version": "0.1.1",
+  "description": "GH markdown in represented by nodes",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "gh"
+  ],
+  "author": "reecehudson <reecehudson10@gmail.com>",
+  "license": "ISC"
+}
